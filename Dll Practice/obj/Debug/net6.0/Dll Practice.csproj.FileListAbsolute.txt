@@ -1,0 +1,15 @@
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\Dll Practice.csproj.AssemblyReference.cache
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\Dll Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\Dll Practice.AssemblyInfoInputs.cache
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\Dll Practice.AssemblyInfo.cs
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\Dll Practice.csproj.CoreCompileInputs.cache
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\bin\Debug\net6.0\Dll Practice.exe
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\bin\Debug\net6.0\Dll Practice.deps.json
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\bin\Debug\net6.0\Dll Practice.runtimeconfig.json
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\bin\Debug\net6.0\Dll Practice.dll
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\bin\Debug\net6.0\Dll Practice.pdb
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\Dll Practice.dll
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\refint\Dll Practice.dll
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\Dll Practice.pdb
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\Dll Practice.genruntimeconfig.cache
+C:\Users\Mirze\Desktop\Dll\Dll\Dll Practice\obj\Debug\net6.0\ref\Dll Practice.dll
